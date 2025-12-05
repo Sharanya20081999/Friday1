@@ -1,6 +1,10 @@
 abc
 
+<<<<<<< HEAD
 def
 
 
 ajhsgjas
+=======
+def
+>>>>>>> child
